@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#c1272d"/>
+  <rect x="28" y="28" width="456" height="456" rx="72" fill="none" stroke="#ffffff" stroke-width="10"/>
+  <text x="256" y="340" text-anchor="middle" font-family="serif" font-size="220" font-weight="bold" fill="#ffffff">印</text>
+</svg>
